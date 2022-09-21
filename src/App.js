@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import Home from './components/Home'
-import Gym from './components/Gym'
-import Coding from './components/Coding'
-import Dating from './components/Dating'
-import FightingGames from './components/FightingGames'
+import Gym from './components/Gym/Gym'
+import Coding from './components/Coding/Coding'
+import Dating from './components/Dating/Dating'
+import FightingGames from './components/FightingGames/FightingGames'
 import Navbar from './Navbar';
 import { Route, Routes } from 'react-router-dom';
 
