@@ -1,11 +1,6 @@
-
-
-function Gym() {
+function Gym1(){
     return (
-      <div className="Gym">
-        <h1 className="gymTitle">Gym</h1>
-        <div className="stepInfo">
-            <h2>Step 2: Picking a Gym</h2>
+        <div>
             <p>The first step in any journey is making a plan. Fitness is no different, and once the plan is made you have to commit to it to see results. So lets answer some questions to determine our approach:</p>
 
             <ul>
@@ -16,10 +11,10 @@ function Gym() {
             </ul>
 
             <p>Each of these questions are important for figuring out what the basic structure of your routine will look like. Remember your answers as they will be referenced in Step 2!</p>
-        </div>
 
-      </div>
-    );
-  }
-  
-  export default Gym;
+            <p>Proceed to next step</p>
+</div>
+    )
+}
+
+export default Gym1;
