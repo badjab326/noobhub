@@ -1,25 +1,13 @@
+function Gym2(){
+  return (
+      <div>
+          <p>Now that you know your fitness goals, it's time to pick a gym to realize them in! Ideally, you want a gym that's close to home, open when YOU want to work out, and within your budget. As a beginner, gyms like Planet Fitness, Crunch and Anytime Fitness are perfect options. They are cheap, offer classes and typically open 24 hours. However, if you're willing to spend the extra money, other gyms like LA Fitness, Esporta and Powerhouse have a few more amenities, as well as personalized guided training and diet plans for a fee.</p>
 
+          <p>Pick one and get a membership! This is the first phase of committing to a healthier you!</p>
 
-function Gym() {
-    return (
-      <div className="Gym">
-        <h1 className="gymTitle">Gym</h1>
-        <div className="stepInfo">
-            <h2>Step 2: Picking a Gym</h2>
-            <p>The first step in any journey is making a plan. Fitness is no different, and once the plan is made you have to commit to it to see results. So lets answer some questions to determine our approach:</p>
+          <p>Click Step 3 to proceed!</p>
+</div>
+  )
+}
 
-            <ul>
-                <li>Would you like to lose or gain weight?</li>
-                <li>Do you want to add more activity in your life?</li>
-                <li>How many days can you go to the gym per week?</li>
-                <li>What is your monthly budget?</li>
-            </ul>
-
-            <p>Each of these questions are important for figuring out what the basic structure of your routine will look like. Remember your answers as they will be referenced in Step 2!</p>
-        </div>
-
-      </div>
-    );
-  }
-  
-  export default Gym;
+export default Gym2;

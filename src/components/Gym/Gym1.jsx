@@ -10,9 +10,9 @@ function Gym1(){
                 <li>What is your monthly budget?</li>
             </ul>
 
-            <p>Each of these questions are important for figuring out what the basic structure of your routine will look like. Remember your answers as they will be referenced in Step 2!</p>
+            <p>Each of these questions are important for figuring out what the basic structure of your routine will look like. Remember your answers as they will be referenced later on!</p>
 
-            <p>Proceed to next step</p>
+            <p>Click Step 2 to Proceed</p>
 </div>
     )
 }
